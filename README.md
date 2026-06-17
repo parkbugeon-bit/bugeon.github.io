@@ -1,4 +1,4 @@
-# Park Bugeon
+# Bugeon Park
 
 **AI Engineer · Backend Developer · Founder**
 
